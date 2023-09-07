@@ -106,6 +106,6 @@
 
 ###
 
-![Snake animation](https://github.com/jayeshironside/jayeshironside/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jayeshironside/jayeshironside/blob/output/github-contribution-grid-snake.gif)
 
 ###
