@@ -106,6 +106,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jayeshironside/jayeshironside/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/jayeshironside/jayeshironside/blob/output/github-contribution-grid-snake.svg)
 
 ###
